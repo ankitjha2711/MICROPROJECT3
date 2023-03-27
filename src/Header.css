@@ -1,0 +1,95 @@
+.headerSection {
+    display: flex;
+    height: 62.2vh;
+    width: 100vw;
+    background: #ffcd9e;
+  }
+  
+  .title {
+    width: 46.833vw;
+    height: 10.8vh;
+    margin-left: 13.6vh;
+    margin-top: 8.4vh;
+    margin-bottom: 0vh;
+  }
+  .title {
+    height: 14vh;
+    margin-bottom: 0;
+    margin-left: 9.5vw;
+    margin-top: 8.4vh;
+    width: 40vw;
+}
+  .content {
+    width: 35.25vw;
+    height: 14.1vh;
+    margin-bottom: 0;
+    margin-left: 9.5vw;
+    margin-top: 0;
+    font-size: 2.8vh;
+    }
+  
+  
+  .sub-content {
+    width: 14.5vw;
+    height: 8.0vh;
+    font-weight: 100;
+    font-size: 2.0vh;
+    margin-left: 9.5vw;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .input {
+    height: 6.4vh;
+    width: 20.33vw;
+    margin-left: 9.5vw;
+    border-radius: 0.8vh;
+    padding-left: 2.2vh;
+    font-weight: 600;
+    font-size: 2.0vh;
+    line-height: 160%;
+    align-items: center;
+    border: 4px solid #000000;
+  }
+  
+  .btn {
+    
+    width: 12vw;
+     height: 7.6vh;
+    margin-left: 1.6vh;
+    border-radius: 0.8vh;
+    background: #282828;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2.0vh;
+    line-height: 2.4vh;
+    align-items: center;
+  }
+  
+  .sub-sub-content {
+    text-align: center;
+    width: 24.66vw;
+    height: 6.1vh;
+    margin-left: 16.4vh;
+    color: #ffffff;
+  }
+  
+  .dweep-image {
+    width: 47.91vw;
+    height: 57.5vh;
+    margin-top: 1.5vh;
+    margin-left: 18.0vh;
+    margin-right: 4.7vh;
+  }
+  .dweep-image {
+    height: 54vh;
+    margin-left: 18vh;
+    margin-right: 4.7vh;
+    margin-top: 1.5vh;
+    width: 34vw;
+}
+  
+  .form {
+    display: flex;
+  }
+  

@@ -1,0 +1,77 @@
+
+   .footerSection {
+    display: flex;
+    height: 37.8vh;
+    width: 100vw;
+    background: #282828;
+  }
+  
+  .ft-left-content {
+    color: #ffffff;
+    width: 30vh;
+    height: 3.6vh;
+    margin-left: 19.1vh;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .ft-left-content {
+    color: #fff;
+    height: 3.6vh;
+    margin-bottom: 0;
+    margin-left: 19.1vh;
+    margin-top: 0;
+    width: 18vw;
+}
+.ft-right-content {
+    color: #fff;
+    height: 3.6vh;
+    margin-bottom: 0.2vh;
+    margin-left: 109.9vh;
+    text-align: right;
+    width: 12.33vw;
+}
+  
+.ft-left-content {
+    color: #fff;
+    height: -12.4vh;
+    margin-bottom: 0;
+    margin-left: 19.1vh;
+    margin-top: 2vh;
+    width: 18vw;
+}
+  .first {
+    margin-top: 6.2vh;
+  }
+  
+  .ft-right-content {
+    color: #ffffff;
+    width: 12.33vw;
+    height: 3.6vh;
+    margin-left: 98.5vh;
+    /* margin-right: 191vh; */
+    text-align: right;
+    margin-bottom: 0.2vh;
+  }
+  
+  .ft-right-content1 {
+    color: #ffffff;
+    width: 12.33vw;
+    height: 3.6vh;
+    margin-left: 101vh;
+    /* margin-right: 191vh; */
+    text-align: right;
+    margin-bottom: 0.2vh;
+  }
+
+
+
+  .first-right {
+    margin-top: 6.2vh;
+    height: 5.8vh;
+    margin-left: 98.5vh;
+  }
+  
+  .icons {
+    margin-top: 1.2vh;
+  }
+  
